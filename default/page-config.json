@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-portadas-musicales.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Portadas para sencillos y álbumes | Lynx Pardelle",
+    "description": "Dale una imagen reconocible a tu lanzamiento. La portada parte de la música, el concepto y la estética del proyecto para crear una primera impresión coherente.",
+    "canonical": "https://servicio-portadas-musicales.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-audiovisual.webp"
+    }
+  }
+}
