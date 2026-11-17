@@ -276,7 +276,7 @@
       "type": "text",
       "config": {
         "id": "outcome-title",
-        "text": "Objetivo del trabajo",
+        "text": "¿Cómo se desarrolla una portada para un lanzamiento musical?",
         "tag": "h2",
         "styles": {
           "margin": "0",
@@ -294,7 +294,7 @@
       "type": "text",
       "config": {
         "id": "outcome-copy",
-        "text": "Una dirección de portada que exprese el carácter del lanzamiento en plataformas y redes.",
+        "text": "Partimos de la música y del concepto del proyecto para elegir imagen, color y texto. Revisamos que la propuesta conserve su intención como miniatura y en publicaciones.",
         "tag": "p",
         "styles": {
           "margin": "0",
@@ -864,7 +864,8 @@
         "tag": "section",
         "components": [
           "offer-contact",
-          "return-link"
+          "return-link",
+          "portfolio-reference"
         ],
         "styles": {
           "boxSizing": "border-box",
@@ -1119,6 +1120,22 @@
           "fontFamily": "\"Instrument Sans\", system-ui, sans-serif",
           "lineHeight": "1.6",
           "minHeight": "100vh"
+        }
+      }
+    },
+    {
+      "id": "portfolio-reference",
+      "type": "link",
+      "config": {
+        "text": "Ver proyectos de diseño gráfico de Lynx Pardelle",
+        "href": "https://lynxpardelle.com/book",
+        "styles": {
+          "color": "#f6c17d",
+          "textUnderlineOffset": "4px",
+          "minHeight": "44px",
+          "display": "inline-flex",
+          "alignItems": "center",
+          "fontWeight": "640"
         }
       }
     }
