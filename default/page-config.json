@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Portadas para sencillos y álbumes | Lynx Pardelle",
-    "description": "Dale una imagen reconocible a tu lanzamiento. La portada parte de la música, el concepto y la estética del proyecto para crear una primera impresión coherente.",
+    "title": "Diseño de portadas para sencillos y álbumes | Lynx Pardelle",
+    "description": "Define una portada que comunique el carácter de tu lanzamiento. Trabaja concepto, composición y lectura en miniatura para plataformas y redes.",
     "canonical": "https://servicio-portadas-musicales.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-portadas-musicales-r2-478ef42c964ca4cd.webp",
+      "title": "Diseño de portadas para sencillos y álbumes | Lynx Pardelle",
+      "description": "Define una portada que comunique el carácter de tu lanzamiento. Trabaja concepto, composición y lectura en miniatura para plataformas y redes.",
+      "url": "https://servicio-portadas-musicales.music.lynxpardelle.com/",
+      "imageAlt": "Prototipos de portada y un vinilo sobre papel de impresión."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Diseño de portadas para sencillos y álbumes | Lynx Pardelle",
+      "description": "Define una portada que comunique el carácter de tu lanzamiento. Trabaja concepto, composición y lectura en miniatura para plataformas y redes.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-portadas-musicales-r2-478ef42c964ca4cd.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-portadas-musicales.music.lynxpardelle.com/#webpage",
+        "name": "Portadas para sencillos y álbumes",
+        "description": "Define una portada que comunique el carácter de tu lanzamiento. Trabaja concepto, composición y lectura en miniatura para plataformas y redes.",
+        "url": "https://servicio-portadas-musicales.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-portadas-musicales.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-portadas-musicales.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Portadas para sencillos y álbumes",
+        "description": "Define una portada que comunique el carácter de tu lanzamiento. Trabaja concepto, composición y lectura en miniatura para plataformas y redes.",
+        "url": "https://servicio-portadas-musicales.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-portadas-musicales-r2-478ef42c964ca4cd.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Portadas para sencillos y álbumes"
+      }
+    ]
   }
 }
